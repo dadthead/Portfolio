@@ -26,7 +26,7 @@ const projects = [
       "Smart home website with responsive design and modern frontend technologies.",
     image: assets.hitech,
     tech: ["React",  "MongoDB", "TailwindCSS", ],
-    live: "#",
+    live: "https://hitechstationery.com/",
     code: "#",
   },
 ];
